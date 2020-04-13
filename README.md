@@ -43,6 +43,7 @@ VCipher Algorithm
 ################################################################################
 Good Luck and Have Fun coding, you can do this, laban mo ayaw mog shift hantod
 sa makaya pa, see you sa industry puhon
+
                 |\ | |  ||\ \ /(_~     |~)|_~|\/||_~|\/||~)|_~|~)
                 |~\|_|/\||~\ | ,_)     |~\|__|  ||__|  ||_)|__|~\
 
