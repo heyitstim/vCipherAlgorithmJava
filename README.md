@@ -1,6 +1,6 @@
 # vCipherAlgorithmJava
 VCipher Algorithm
-Dont share this code to anyone, this is for acads purposes only
+         Dont share this code to anyone, this is for acads purposes only
     Comments are shown to every line of this code, if you have any questions
      or concerns regarding this code, please dont hesitate to contact me.
         
@@ -33,11 +33,12 @@ Dont share this code to anyone, this is for acads purposes only
                            /    \___________/    \
                            \_____________________/        
 ################################################################################                
-Most of the error catching of this program is finished, im just too lazy to do it
+           Most of the error catching of this program is almost finished, 
+                          im just too lazy to do it
 ################################################################################
-This program uses the built-in methods below:
+                   This program uses the built-in methods below
 
-StringBuilder() and Random()
+                        StringBuilder() and Random()
 ################################################################################
 Good Luck and Have Fun coding, you can do this, laban mo ayaw mog shift hantod
 sa makaya pa, see you sa industry puhon
