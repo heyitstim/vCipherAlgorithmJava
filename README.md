@@ -5,6 +5,7 @@ VCipher Algorithm
      or concerns regarding this code, please dont hesitate to contact me.
         
 ####################################ISSUES######################################
+
     THIS PROGRAM IS ALMOST DONE, AND IM PLANNING TO ADD MORE FUNCTIONALITIES
                             IN IT, PLEASE BEAR WITH ME..
 
